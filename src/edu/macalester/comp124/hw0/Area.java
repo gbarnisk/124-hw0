@@ -1,5 +1,8 @@
 package edu.macalester.comp124.hw0;
 
+//Imprtant Note
+//Was having trouble getting this file open, did not have time to actually edit it.
+
 /**
  * @author Shilad Sen
  */
